@@ -13,7 +13,7 @@ export default class Main extends Component {
     render() {
         return (
             <div>
-                <Title>Test page</Title>
+                <Title>Snapback Hat</Title>
             </div>
         );
     }
